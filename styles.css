@@ -1,0 +1,43 @@
+html
+{
+    font-family: Arial;
+}
+body
+{
+    background-color: #5d8aa8;
+}
+
+h1
+{
+    font-size: 7vw;
+}
+
+h2
+{
+    font-size: 5vw;
+}
+
+p1
+{
+    font-size: 3vw;
+}
+
+p2
+{
+    font-size: 1vw;
+}
+
+.icon-bar
+{
+    position: center;
+    top: 35vw;
+    width: 100%;
+}
+
+#main-header
+{
+    text-align: center;
+    background-color: black;
+    color:white;
+    padding: 10px;
+}
